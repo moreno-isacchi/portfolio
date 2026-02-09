@@ -1,14 +1,5 @@
-# Portfolio — Moreno Isacchi
-
-This repository gathers the PDF files of my editorial and musical portfolio.
-
-Included contents:
-- Academic article
-- Editions of classical texts (Seneca, Bergson)
-- Music engraving (Bartók, Beethoven — Op. 18 No. 1)
-
-The files are provided exclusively as finished works, for consultation and download.
-This repository is not intended as a collaborative project nor as a working repository.
+This repository hosts static files (PDF) for various projects.
+Subdirectories correspond to different contexts (portfolio, etc.).
 
 ## License
 All contents are distributed under the  
